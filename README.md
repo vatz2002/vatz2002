@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/cc436e32-cd22-423e-9fdb-83fe32558a33)
+![logo](https://github.com/user-attachments/assets/08e73a00-7e46-45b8-a4a4-4bc42daccb58)
+
 
 
 <h1 align="center">Hi 👋, I'm Vatsal Makwana</h1>
