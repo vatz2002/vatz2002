@@ -1,3 +1,6 @@
+![logo](https://github.com/user-attachments/assets/cc436e32-cd22-423e-9fdb-83fe32558a33)
+
+
 <h1 align="center">Hi 👋, I'm Vatsal Makwana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
